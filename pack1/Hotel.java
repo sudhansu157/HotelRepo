@@ -7,7 +7,6 @@ import java.util.regex.Pattern;
 
 
 public class Hotel {
-	
 	private String registrationNo;
 	private Date registrationDate;
 	public String getRegistrationNo() {
